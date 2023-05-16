@@ -9,18 +9,13 @@ Greetings to my data portfolio! Within this repository, I present a comprehensiv
 
 # SQL
 
-| Project Link | Area of Analysis | Project Description | 
-|---|---|---|
- 
-| 🍜[Danny's Diner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%231%20-%20Danny's%20Diner) | Customer analysis | I gather and analyze customer data to determine their visiting patterns, spending habits, and favorite menu items.  | 
-| 🍕[Pizza Runner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner) | Data cleaning, transformation, and analysis | I analyze pizza orders, runner and customer experience, and ingredient optimization.  |  
-| 🥑 [Foodie-Fi](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi) | Data analysis | I use subscription-style digital data to analyze customer journey, payments, and business performance.  |  
-| 🏦 [Data Bank](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank) | Data analysis | Using the Data Bank data, I calculate metrics and growth, and analyze data for future planning and development through linking customers' cloud data storage limits to their account balances.  |  
-| 🌽 [Data Mart](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%235%20-%20Data%20Mart) | Data cleaning and analysis | In this project, I measure the effect of changes in June 2020 on Data Mart's sales performance, identifying the most affected platform, region, segment, and customer types, and finding ways to minimize future sustainability updates' impact on sales.  |  
-| 🎣 [Clique Bait](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait) | Digital, product funnel and campaign analysis | To support the founder and CEO Danny's vision, I analyze the dataset for the Clique Bait online store, and develop creative solutions for calculating funnel fallout rates.  |  
-| 🍒 [Fresh Segments](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%238:%20Fresh%20Segments) | Interest analysis | I analyse customer behavior and interests to help clients understand their customers.  |  
-| 👩🏻‍⚕️ [Health Analytics Case Study](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |  
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | Data cleaning and analysis | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  
+| Project Link | Project Description | 
+|--------|-------|
+|  | 
+| [Danny's Diner](https://github.com/iamismaill/Serious-SQL/tree/main/8%20Week%20SQL%20Challenge/Case%20Danny's%20Diner)    |   As a data analyst, I am tasked with assisting Danny in leveraging his restaurant's data on sushi, curry, and ramen to drive business growth and improve operations.  | 
+| [Pizza runner](https://github.com/iamismaill/Serious-SQL/tree/main/8%20Week%20SQL%20Challenge/Case%20Pizza%20runner)   |   As a data analyst, I aim to leverage Danny's collected data for his Pizza Runner store specializing in Meatlovers and Vegetarian Pizza, providing actionable insights to drive business growth and success in the competitive pizza delivery market.|  
+|  [Foodie-Fi](https://github.com/iamismaill/Serious-SQL/tree/main/8%20Week%20SQL%20Challenge/Case%20Study%20Foodie%20FI) |   I analyzed the subscription-style digital data of Foodie-Fi, uncovering insights about customer journey, payments, and business performance, which informed strategic decision-making and facilitated the growth of the startup.  |  
+
 
 
 
