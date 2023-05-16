@@ -12,7 +12,7 @@ Greetings to my data portfolio! Within this repository, I present a comprehensiv
 # SQL
 
 | Project Link | Area of Analysis | Project Description | 
-|---|---|---|
+|----|---|
 
 | 🍜[Danny's Diner](https://github.com/iamismaill/Serious-SQL/tree/main/8%20Week%20SQL%20Challenge/Case%20Danny's%20Diner) | Customer analysis | As a data analyst, I am tasked with assisting Danny in leveraging his restaurant's data on sushi, curry, and ramen to drive business growth and improve operations| 
 | 🍕[Pizza Runner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner) | Data cleaning, transformation, and analysis | I analyze pizza orders, runner and customer experience, and ingredient optimization.  |  
