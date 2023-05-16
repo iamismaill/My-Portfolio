@@ -5,7 +5,7 @@ Greetings to my data portfolio! Within this repository, I present a comprehensiv
 ## 📚 Table of Contents
 - [SQL](#sql)
 - [Data Engineering](#data-engineering)
-- [Data Visualization](#Data Visualization)
+- [Data Visualization](#Data-Visualization)
 
 # SQL
 
