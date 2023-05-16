@@ -1,23 +1,13 @@
-# My-Portfolio
-# 🗺 Katie's Portfolio
+# My Portfolio
 
-Welcome to my data portfolio! Here, I document a summary of my projects in the data field. 
+Greetings to my data portfolio! Within this repository, I present a comprehensive overview of my ventures in the fascinating world of data. 
 
 ## 📚 Table of Contents
-- [Data Engineering](#data-engineering)
 - [SQL](#sql)
-- [Python](#python)
-- [Tableau](#tableau)
-- [Katie's Guides](#katies-guides)
+- [Data Engineering](#data-engineering)
+- [Data Visualization](#tableau)
 
-# Data Engineering
 
-| Project Link | Completion Date | Tools | Project Description | 
-|---|---|---|---|
-| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP Storage, Compute Engine, Mage, BigQuery, Looker Studio | Developed a data pipeline utilizing ETL to process NYC Trip Record data by extracting raw data from a website, modelling it using Python on Jupyter Notebook, orchestrating the pipeline on Mage, and creating a dashboard using Looker Studio. |
-| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL | Created and built a data model from scratch and deploy into database. |
-
-***
 
 # SQL
 
@@ -32,7 +22,21 @@ Welcome to my data portfolio! Here, I document a summary of my projects in the d
 | 🎣 [Clique Bait](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%236%20-%20Clique%20Bait) | Digital, product funnel and campaign analysis | To support the founder and CEO Danny's vision, I analyze the dataset for the Clique Bait online store, and develop creative solutions for calculating funnel fallout rates.  |  
 | 🍒 [Fresh Segments](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%238:%20Fresh%20Segments) | Interest analysis | I analyse customer behavior and interests to help clients understand their customers.  |  
 | 👩🏻‍⚕️ [Health Analytics Case Study](https://github.com/katiehuangx/Serious-SQL-Apprenticeship/blob/main/Health%20Analytics%20Mini%20Case%20Study.md) | Health analysis | I answer business questions related to patients data, such as average and median measurements per user, types of measurements for active users, and median blood pressure values for users. |  
-| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | Data cleaning and analysis | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |  
+| 🦠 [Covid-19 and the Impact on Malaysia Stock Market](https://github.com/katiehuangx/Covid-19-and-Impact-on-Malaysia-stock-market) | Data cleaning and analysis | A project close to 🏡 home. Inspired by Alex Freberg's [Data Exploration Project](https://www.youtube.com/watch?v=qfyynHBFOsM&list=PLUaB-1hjhk8H48Pj32z4GZgGWyylqv85f&index=1), I analysed global and local Covid-19 cases & the impact on Malaysia stock market from Jan 2020 to Jul 2021 using SQL and Tableau. |
+
+
+
+
+
+# Data Engineering
+
+| Project Link | Completion Date | Tools | Project Description | 
+|---|---|---|---|
+| 🚗 [Uber Taxi](https://github.com/katiehuangx/data-engineering/tree/main/Uber%20Project) | May 2023 | Python, GCP Storage, Compute Engine, Mage, BigQuery, Looker Studio | Developed a data pipeline utilizing ETL to process NYC Trip Record data by extracting raw data from a website, modelling it using Python on Jupyter Notebook, orchestrating the pipeline on Mage, and creating a dashboard using Looker Studio. |
+| 🐶 [Dog Adoption](https://github.com/katiehuangx/data-engineering/tree/main/Dog%20Adoption) | Mar 2023 |Python, PostgreSQL | Created and built a data model from scratch and deploy into database. |
+
+***
+  
 
 ***
 
