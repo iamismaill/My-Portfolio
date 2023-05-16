@@ -14,7 +14,7 @@ Greetings to my data portfolio! Within this repository, I present a comprehensiv
 | Project Link | Area of Analysis | Project Description | 
 |---|---|---|
 
-| 🍜[Danny's Diner](https://github.com/iamismaill/Serious-SQL/tree/main/8%20Week%20SQL%20Challenge/Case%20Danny's%20Diner) | Customer analysis | As a data analyst, I am tasked with assisting Danny in leveraging his restaurant's data on sushi, curry, and ramen to drive business growth and improve operations.  | 
+| 🍜[Danny's Diner](https://github.com/iamismaill/Serious-SQL/tree/main/8%20Week%20SQL%20Challenge/Case%20Danny's%20Diner) | Customer analysis | As a data analyst, I am tasked with assisting Danny in leveraging his restaurant's data on sushi, curry, and ramen to drive business growth and improve operations| 
 | 🍕[Pizza Runner](https://github.com/katiehuangx/8-Week-SQL-Challenge/tree/main/Case%20Study%20%232%20-%20Pizza%20Runner) | Data cleaning, transformation, and analysis | I analyze pizza orders, runner and customer experience, and ingredient optimization.  |  
 | 🥑 [Foodie-Fi](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%233%20-%20Foodie-Fi) | Data analysis | I use subscription-style digital data to analyze customer journey, payments, and business performance.  |  
 | 🏦 [Data Bank](https://github.com/katiehuangx/8-Week-SQL-Challenge/blob/main/Case%20Study%20%234%20-%20Data%20Bank) | Data analysis | Using the Data Bank data, I calculate metrics and growth, and analyze data for future planning and development through linking customers' cloud data storage limits to their account balances.  |  
