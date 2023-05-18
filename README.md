@@ -25,8 +25,9 @@ Greetings to my data portfolio! Within this repository, I present a comprehensiv
 
 | Project Link  | Tools | Project Description | 
 |---|---|---|
+|  |
 | [Twitter Airflow Project](https://github.com/iamismaill/Twitter-Airflow--Project)  | Twitter API, Python, Amazon Web Services (AWS), EC2 (Elastic Compute Cloud), Apache Airflow, Amazon S3 | In this mini project, I gained hands-on experience in extracting data from Twitter using the Twitter API, transforming and cleaning it with Python scripts, deploying code as a pipeline using Apache Airflow on an AWS EC2 instance, and storing data in Amazon S3, enabling automation of data processing tasks and gaining comprehensive knowledge of key data engineering concepts and tools. |
- 
+| [Kafka for Stock Market Analysis](https://github.com/iamismaill/Twitter-Airflow--Project)  | Athena,Glue Crawler,Glue Catalog, Python, Amazon Web Services (AWS), Amazon S3 | In this real-time stock market data project, I leveraged Apache Kafka, Python, AWS services, and SQL to process and analyze data streams, acquiring valuable hands-on experience in data engineering. |
 
 ***
 
